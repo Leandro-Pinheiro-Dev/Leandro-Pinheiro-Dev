@@ -35,7 +35,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Leandro-Pinheiro-Dev/Leandro-Pinheiro-Dev/output/snake.svg" alt="Snake animation" />
-
-###
