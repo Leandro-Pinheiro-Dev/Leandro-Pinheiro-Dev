@@ -1,8 +1,17 @@
-<h2 align="left">Aboult Me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">- Education: Currently pursuing a degree in Systems Analysis and Development (ADS).<br>- Main Language: Focused on specializing in Java.<br>- Continuous Learning: Engaged in complementary courses in the technology field.<br>- Tools: Familiar with several relevant tools and technologies.<br>- Objective: Seeking my first opportunity in the job market.</p>
+<p align="left">
+- 🎓 Education: Currently pursuing a degree in Embedded Systems at Fatec Jundiaí (3rd semester).<br>
+- 💻 Main Technologies: Java, Python, HTML, CSS, JavaScript, MySQL.<br>
+- 🚀 Backend & Frontend: Experience with Flask, Spring Boot, and database modeling.<br>
+- 📚 Continuous Learning: Complementary courses in programming, cloud services (AWS), and automation.<br>
+- 🏆 Projects: Developed a Paint Donation System (Banco de Tintas) using Python (Flask) and MySQL.<br>
+- 🔍 Objective: Seeking my first professional opportunity in IT while working on freelance projects.<br>
+- 🤝 Collaboration: Passionate about problem-solving, teamwork, and delivering impactful solutions.<br>
+</p>
+
 
 ###
 
