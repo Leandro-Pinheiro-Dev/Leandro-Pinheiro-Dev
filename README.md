@@ -8,7 +8,7 @@
 - 🚀 Backend & Frontend: Experience with Flask, Spring Boot, and database modeling.<br>
 - 📚 Continuous Learning: Complementary courses in programming, cloud services (AWS), and automation.<br>
 - 🏆 Projects: Developed a Paint Donation System (Banco de Tintas) using Python (Flask) and MySQL.<br>
-- 🔍 Objective: Seeking my first professional opportunity in IT while working on freelance projects.<br>
+- 🔍 Objective: Seeking my first professional opportunity in IT .<br>
 - 🤝 Collaboration: Passionate about problem-solving, teamwork, and delivering impactful solutions.<br>
 </p>
 
