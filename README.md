@@ -9,7 +9,6 @@
 - 📚 Continuous Learning: Complementary courses in programming, cloud services (AWS), and automation.<br>
 - 🏆 Projects: Developed a Paint Donation System (Banco de Tintas) using Python (Flask) and MySQL.<br>
 - 🔍 Objective: Seeking my first professional opportunity in IT .<br>
-- 🤝 Collaboration: Passionate about problem-solving, teamwork, and delivering impactful solutions.<br>
 </p>
 
 
