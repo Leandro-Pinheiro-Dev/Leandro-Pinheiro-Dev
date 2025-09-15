@@ -4,8 +4,6 @@
 
 <p align="left">
 - 🎓 Education: Currently pursuing a degree in Embedded Systems at Fatec Jundiaí (5rd semester).<br>
-- 💻 Main Technologies: Java, Python, HTML, CSS, JavaScript, MySQL.<br>
-- 🚀 Backend & Frontend: Experience with Flask, Spring Boot, and database modeling.<br>
 - 📚 Continuous Learning: Complementary courses in programming.<br>
 - 🔍 Objective: Seeking my first professional opportunity in IT .<br>
 </p>
