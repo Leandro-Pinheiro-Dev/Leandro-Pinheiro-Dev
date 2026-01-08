@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-- 🎓 Education: Currently pursuing a degree in Embedded Systems at Fatec Jundiaí (5rd semester).<br>
+- 🎓 Education: Currently pursuing a degree in Embedded Systems at Fatec Jundiaí (6rd semester).<br>
 - 📚 Continuous Learning: Complementary courses in programming.<br>
 - 🔍 Objective: Seeking my first professional opportunity in IT .<br>
 </p>
