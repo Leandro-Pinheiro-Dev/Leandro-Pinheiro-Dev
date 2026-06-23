@@ -1,7 +1,7 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-🎓 Currently pursuing a degree in Embedded Systems at Fatec Jundiaí (6th semester).<br>
+🎓 Currently pursuing a in Embedded Systems at Fatec Faculdade de tecnologia de Jundiaí .<br>
 💻 Passionate about Software Development, Quality Assurance, and Automation.<br>
 📚 Continuously improving my skills through academic, personal, and freelance projects.<br>
 🧪 Experience with API testing, automated testing, and software quality practices.<br>
@@ -71,3 +71,55 @@
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leandro-Pinheiro-Dev&theme=gruvbox&area=true" />
 </div>
+
+
+<h2 align="left"> CERTIFICAÇÕES</h2>
+
+<h3> Software Testing & Quality Assurance</h3>
+
+<ul>
+  <li>QA para Times Ágeis</li>
+  <li>Testes Automáticos de Software</li>
+  <li>Testes Manuais e Testes Exploratórios (Caixa Preta)</li>
+  <li>JUnit para Automação de Testes</li>
+  <li>Fundamentos de Selenium (Automação de Testes E2E)</li>
+  <li>Testes de API e Integração de Sistemas</li>
+</ul>
+
+<h3> Agile Methodologies</h3>
+
+<ul>
+  <li>Gestão Ágil com Scrum</li>
+</ul>
+
+<h3> Software Development</h3>
+
+<ul>
+  <li>Introdução à Plataforma Java</li>
+  <li>Dev Superior – Formação em Desenvolvimento de Software (Nélio Alves)</li>
+</ul>
+
+<h3> Databases</h3>
+
+<ul>
+  <li>SQL – Fundamentos (Bancos de Dados Relacionais)</li>
+</ul>
+
+<h3> Version Control</h3>
+
+<ul>
+  <li>Git e GitHub – Básico e Intermediário</li>
+</ul>
+
+<h3> Cloud Computing</h3>
+
+<ul>
+  <li>AWS Cloud Practitioner – Foundational</li>
+</ul>
+
+<h3> Professional Skills</h3>
+
+<ul>
+  <li>Pensamento Crítico & Resolução de Problemas – Santander</li>
+</ul>
+
