@@ -60,25 +60,6 @@
 
 
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="left">
-  <img
-    src="./profile/stats.svg"
-    height="165"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="./profile/top-langs.svg"
-    height="165"
-    alt="Top Languages"
-  />
-</div>
 
 <h2 align="left"> CERTIFICAÇÕES</h2>
 
