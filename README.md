@@ -63,15 +63,22 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leandro-Pinheiro-Dev&show_icons=true&theme=gruvbox_light" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leandro-Pinheiro-Dev&layout=compact&theme=gruvbox_light" height="150" />
-</div>
+
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leandro-Pinheiro-Dev&theme=gruvbox&area=true" />
-</div>
+  <img
+    src="./profile/stats.svg"
+    height="165"
+    alt="GitHub Stats"
+  />
 
+  <img
+    src="./profile/top-langs.svg"
+    height="165"
+    alt="Top Languages"
+  />
+</div>
 
 <h2 align="left"> CERTIFICAÇÕES</h2>
 
